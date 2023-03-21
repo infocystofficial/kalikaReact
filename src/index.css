@@ -582,6 +582,7 @@ th{
    
 }
 tr{
+    height: 10px;
     background-color: #ddd;
     box-shadow: 6px 6px 6px gray;
 }

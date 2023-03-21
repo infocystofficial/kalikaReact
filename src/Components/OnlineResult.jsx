@@ -3,6 +3,9 @@ import ReadData from "./ReadData";
 import TeacherData from "./TeacherData";
 import UpdateData from "./UpdateData";
 
+
+
+
 const OnlineResult = () => {
   return (
     <>
